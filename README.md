@@ -1,16 +1,42 @@
-## Hi there 👋
+# Alberto Martínez Cánovas
 
-<!--
-**amc158/amc158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de 2º de DAM | Desarrollador Android Junior (Kotlin & Java)**
 
-Here are some ideas to get you started:
+Mi trayectoria profesional es atípica pero muy sólida. Antes de volcarme por completo en la programación, desarrollé mi carrera en el sector de la hostelería. Esta experiencia me ha enseñado el verdadero valor del trabajo en equipo, la gestión del estrés en entornos de alta presión y la importancia de la constancia; habilidades que ahora aplico en cada línea de código. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente, construyo aplicaciones con un enfoque práctico y busco mi primera oportunidad como desarrollador Junior para aportar mi ética de trabajo al sector IT.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+*   **Ecosistema Móvil:** Android Studio, Kotlin.
+*   **Backend & Lenguajes:** Java, C.
+*   **Herramientas & Entornos:** Git, GitHub, IntelliJ IDEA, Visual Studio Code, Linux.
+*   **Otros:** Inglés B2 (Cambridge First Certificate).
+
+---
+
+### 📊 Mis Estadísticas
+
+A continuación, un resumen de mi actividad y lenguajes más utilizados en mis repositorios:
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amc158&theme=transparent&locale=es)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 💼 Experiencia Práctica Destacada
+
+*   **Ikos Advanced** (Estudiante en Prácticas): Desarrollo y optimización de código en C utilizando Microsoft Visual Studio Code.
+*   **AnonimArte** (Estudiante en Prácticas): Mejora del rendimiento web a través del análisis de código fuente y colaboración en el diseño inicial de la futura aplicación móvil.
+
+---
+
+### 📫 Contacto
+
+*   **LinkedIn:** [Alberto Martínez Cánovas](https://www.linkedin.com/in/albertomartinezcanovas/)
+*   **Portafolio Digital:** [Mi CV Interactivo](https://sites.google.com/view/cv-alberto-martinez/inicio)
