@@ -1,3 +1,5 @@
+![Banner de Alberto](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Alberto%20Martínez&fontSize=60&fontColor=ffffff&desc=Desarrollador%20Android%20Junior%20(Kotlin/Java)&descSize=20&descColor=e0e0e0&animation=fadeIn)
+
 # Alberto Martínez Cánovas
 
 **Estudiante de 2º de DAM | Desarrollador Android Junior (Kotlin & Java)**
@@ -18,8 +20,6 @@ Actualmente, construyo aplicaciones con un enfoque práctico y busco mi primera 
 ---
 
 ### 📊 Mis Estadísticas
-
-A continuación, un resumen de mi actividad y lenguajes más utilizados en mis repositorios:
 
 <div align="center">
   
